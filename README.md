@@ -51,7 +51,7 @@ IntraManage/
 │   └── autres documents…
 │
 └── README.md
-🛠️ Technologies utilisées
+ Technologies utilisées
 Backend
 Node.js
 
@@ -77,8 +77,8 @@ JavaScript (Fetch API)
 
 Live Server (VS Code)
 
-🔌 API — Endpoints disponibles
-✔️ GET /employees
+ API — Endpoints disponibles
+ GET /employees
 Retourne la liste des employés :
 
 json
@@ -87,7 +87,7 @@ json
   {"Id":2,"FirstName":"Sarah","Lastname":"Connor","Department":"HR"},
   {"Id":4,"FirstName":"Mike","Lastname":"Ross","Department":"Finance"}
 ]
-💻 Frontend — Aperçu
+ Frontend — Aperçu
 Le frontend affiche les employés dans un tableau HTML dynamique.
 
 Fonctionnalités :
@@ -100,7 +100,7 @@ Gestion des erreurs
 
 Interface simple et claire
 
-📘 Documentation technique
+ Documentation technique
 Toutes les étapes du projet sont documentées dans /docs :
 
 Installation SQL Server
